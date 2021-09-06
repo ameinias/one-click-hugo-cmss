@@ -4,15 +4,17 @@ subtitle: narrative and level design and comics and
 image: img/gb_banner.png
 blurb:
   heading: narrative design
-  text: g blekkenhorst has worked as a narrative designer in the independent games
+  text: >+
+    g blekkenhorst has worked as a narrative designer in the independent games
     industry, specializing in generative content, atypical narrative, and
     speculative fiction. They also work as a games educator and multimedia
     artist focusing on comics. In addition to narrative writing and systems
     design, they can contribute level design including maps and greyboxing,
     thumbnails, storyboards, UX wireframes and various other skills to aide in
     game preproduction. They specialize in Unity, and have experience working
-    with Twine, Yarn Spinner, Articy Draft, Adventure Creator and Dialogue
-    System and Unreal Engine.
+    with Twine, Yarn Spinner, Articy Draft, Adventure Creator and [b]Dialogue
+    System [/b]and Unreal Engine.
+
 intro:
   heading: Educator
   text: >+
