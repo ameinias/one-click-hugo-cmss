@@ -1,12 +1,8 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Hugo CMS - gblekkenhorst-media
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
-## Getting started
 
-Use our deploy button to get your own copy of the repository. 
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
 
 This will setup everything needed for running the CMS:
 
@@ -43,4 +39,11 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 <svg width="16px" height="16px" class="db">
   <use xlink:href="#SVG-ID"></use>
 </svg>
+
+## Getting started
+
+Use our deploy button to get your own copy of the repository. 
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+
 ```
