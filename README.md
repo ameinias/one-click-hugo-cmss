@@ -5,6 +5,7 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 * https://stackoverflow.com/questions/44278313/using-netlify-cms-with-hugo-creating-posts-with-galleries - impliment this eventually
 * * or this one https://discourse.gohugo.io/t/connecting-fancybox-gallery-through-hugo-and-use-netlify-cms-to-upload-bulk-images/18997/12
 * one-click-hugo-cmss/site/static/admin/config.yml - where to edit layouts for CMS
+* https://hugo-novela-forestry.netlify.app/ - steal thumbnails
 
 ## Getting started
 
