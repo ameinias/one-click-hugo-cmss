@@ -34,7 +34,7 @@ intro:
           text: "gblekkenhorst has also worked as an illustrator and comic artist. While stepping back as a professional illustation in favour of games, they still work as a storyteller through comics and book art to tell deeply personal stories about terror, queerness and the spooky human condition flavoured with horror and weirdness. They are a member of the friendship edition collective, and have had work published in anthologies such as Wayward Sisters and Wayward Kindred with TO Comics, as well as Sweaty Palms. Their books Fully Automated Vacation with writer Shivaun Hoad and House of Strays were nominated for the Doug Wright Nipper award in 2018."
 
 
-products: []
+
 values:
   heading: barty the horse with the face of a man.
   text: >+
