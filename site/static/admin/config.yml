@@ -26,6 +26,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Gallery Image", name: "imgSrc", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+-  name: "galleria"
+         label: "Gallery" 
+         widget: "list"
+         optional: true
+         fields:
+          - {label: "Title", name: "imgTitle", widget: "string"}
+          - {label: "Gallery Image", name: "imgSrc", widget: "image"}
+          - {label: "Description", name: "imgDesc", widget: "string"}
   - name: "pages"
     label: "Pages"
     files:
