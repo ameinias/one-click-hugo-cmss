@@ -40,13 +40,13 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "comics", name: "comics", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "barty", name: "barty", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "markdown"}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
