@@ -1,6 +1,9 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Hugo template for gblekkenhorst-media
+This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).\
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+#TODO
+* https://stackoverflow.com/questions/44278313/using-netlify-cms-with-hugo-creating-posts-with-galleries - impliment this eventually
+* one-click-hugo-cmss/site/static/admin/config.yml - where to edit layouts for CMS
 
 ## Getting started
 
