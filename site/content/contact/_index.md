@@ -1,19 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact
+logo: img/gb_banner.png
+contact_entries: []
 ---
+<h3 class="f4 b lh-title mb2">Contact</h3>
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I'm currently booking for short for preproduction sketches or writing contracts starting in January. I'm usually available for workshops on introductory game design, Unity or Twine tutorials, or experimental comics.  Short horror and speculative fiction comics or small illustration jobs are also welcome.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
+Please reach out to gillian@blekkenhorst . ca. Remove the spaces around the dot - the email is disguised to reduce spam.
